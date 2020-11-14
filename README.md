@@ -2,7 +2,7 @@
 
 <strong> In this project, I used the most updated React Js futures with Styled Components; I used React Transition Group to animate when to mount or unmount something from DOM. I took data from OPEN TRIVIA DATABASE and showed users different data in different situations with beautiful animations conditionally. The project has a responsive design for all devices with the most updated CSS features. </strong>
 
-<h3>Netlify Link: https://vigilant-allen-2ab416.netlify.com/#/</h3>
+<h3>Gh-pages Link: https://abbaskhurram255.github.io/Trivia-Db/</h3>
 &nbsp;
 
 ![Main](https://user-images.githubusercontent.com/57728302/76013725-6a789d80-5ee6-11ea-8988-a2a2267d1a04.gif)
@@ -171,7 +171,6 @@ User can see quiz summary at the and of the quiz with selected and correct answe
 
 <hr>
 
-<h3>Netlify Link: https://vigilant-allen-2ab416.netlify.com/#/</h3>
 <h4><strong>Used technologies: </strong> React JS (React Hooks, Styled Components, React Transition Group, React Router), HTML, CSS.  </h4>
 
 
